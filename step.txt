@@ -1,0 +1,5 @@
+cp input/* ./ragtest/input    =   xcopy input\* .\ragtest\input\
+
+move settings.yaml .\ragtest\ = move settings.yaml .\ragtest\
+
+nomic-embed-text must install in ollama
